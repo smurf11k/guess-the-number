@@ -2,7 +2,7 @@
 This is a simple website made for a school project.
 The design is inspired by [this website](https://www.mathsisfun.com/games/guess_number.html).
 
-P.S: don't blame me for the light theme, the dark one was the default (I'm no designer though).
+P.S.: don't blame me for the light theme, the dark one was the default (I'm no designer though).
 
 ## Gameplay
 - The number is randomly chosen between 1 and 100.
