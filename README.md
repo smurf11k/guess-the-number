@@ -18,4 +18,4 @@ And don't forget to specify an email in the feedback-form:
 ```<form action="https://formsubmit.co/YOUR_EMAIL_HERE" method="post">```
 
 ## License
-This project is free and can be used for personal or educational purposes.
+This project is open-source and can be used for educational purposes.
