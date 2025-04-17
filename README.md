@@ -1,4 +1,4 @@
-# Guess the number web-game
+# Guess The Number (web-game)
 This is a simple website made for a school project.
 The design is inspired by [this website](https://www.mathsisfun.com/games/guess_number.html).
 
