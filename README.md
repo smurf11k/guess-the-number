@@ -8,5 +8,5 @@ The design is inspired by [this website](https://www.mathsisfun.com/games/guess_
 - The game ends when the player guesses correctly.
 - Achievements can be unlocked through the game, they are shown on the achievement page.
 
-##License
+## License
 This project is free and can be used for personal or educational purposes.
