@@ -1,5 +1,5 @@
 # Guess The Number (web-game)
-This is a simple website made for a school project.
+This is a simple [website](https://smurf11k.github.io/guess-the-number/) made for a school project.
 The design is inspired by [this website](https://www.mathsisfun.com/games/guess_number.html).
 
 P.S.: don't blame me for the light theme, the dark one was the default (I'm no designer though).
