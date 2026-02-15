@@ -16,6 +16,3 @@ You can do it using [Live Server](https://marketplace.visualstudio.com/items?ite
 
 And don't forget to specify an email in the feedback-form:  
 ```<form action="https://formsubmit.co/YOUR_EMAIL_HERE" method="post">```
-
-## License
-This project is open-source and can be used for educational purposes.
