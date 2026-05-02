@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 # Guess The Number (web-game)
 This is a simple [website](https://smurf11k.github.io/guess-the-number/) made for a school project.
 The design is inspired by [this website](https://www.mathsisfun.com/games/guess_number.html).
